@@ -16,4 +16,4 @@ for (let i = 2; i <= 100; i++) {
     }
 }
 
-console.log("Task 5 :", Answer); // Выводим ответы через запятую
+console.log(Answer); // Выводим ответы через запятую
