@@ -22,4 +22,4 @@ class Worker {
 let worker = new Worker('Уолтер','Уайт',5000,5);
 
 //вывод
-console.log(`Фамилия: ${worker.surname}; Имя: ${worker.name}; Рабочая ставка: ${worker.rate}; Кол-во дней: ${worker.days}; Зарплата: ${worker.getSalary()};`);
+console.log(`Имя: ${worker.name}; Фамилия: ${worker.surname}; Рабочая ставка: ${worker.rate}; Кол-во дней: ${worker.days}; Зарплата: ${worker.getSalary()};`);
